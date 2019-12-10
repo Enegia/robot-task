@@ -1,0 +1,8 @@
+--name Enerkey TEST
+--variablefile config/environment/local.py
+--exclude ignore
+--loglevel TRACE
+-P .
+-d results
+
+tests/dashboard/*

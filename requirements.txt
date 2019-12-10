@@ -1,0 +1,10 @@
+robotframework
+robotframework-selenium2library
+robotframework-seleniumlibrary>=3.3.0
+requests
+robotframework-requests
+robotframework-faker
+selenium
+pyDAL
+robotframework-databaselibrary
+Faker
